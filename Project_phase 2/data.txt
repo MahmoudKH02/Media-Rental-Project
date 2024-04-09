@@ -1,9 +1,0 @@
-Movie-AH78-AVENGERS-5-AC
-Game-YH98-COD-3-27.6
-Album-987M-FLAMES-4-sia-flames
-Album-KAR9-THIS IS ACTING-3-sia-alive,bird set free,cheap thrills
-Movie-QAZ5-TITANIC-3-AC
-
-Customer-123-AHMAD-ramallah-9123-UNLIMITED-Cart[]-Rented[THIS IS ACTING, AVENGERS, COD]
-Customer-456-ALI-jenin-9456-LIMITED-Cart[]-Rented[FLAMES, TITANIC]
-Customer-987-MAHMOUD-nablus-9789-LIMITED-Cart[]-Rented[COD, FLAMES]
